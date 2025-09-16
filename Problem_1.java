@@ -1,5 +1,5 @@
 public class Problem_1 {
-    public int The_difference_of_two_numbers(int num1, int num2) {
+    public int answer(int num1, int num2) {
         int answer = 0;
         answer = Subtraction(num1, num2);
         return answer;
