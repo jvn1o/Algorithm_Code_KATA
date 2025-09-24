@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Algorithm_Code_KATA.iml" filepath="$PROJECT_DIR$/.idea/modules/Algorithm_Code_KATA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Algorithm_Code_KATA.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Algorithm_Code_KATA.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Algorithm_Code_KATA.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Algorithm_Code_KATA.test.iml" />
     </modules>
